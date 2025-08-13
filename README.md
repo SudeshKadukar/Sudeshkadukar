@@ -421,8 +421,8 @@ I am a highly motivated and versatile **Electronics and Telecommunication Engine
       </a>
     </td>
     <td align="center">
-      <a href="https://wa.me/917028352298" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7028352298&size=square" alt="India-+91-702-835-2298" style="margin: 10px;">
+      <a href="https://wa.me/94203555509" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-94203555509&size=square" alt="India-+91-94203555509" style="margin: 10px;">
       </a>
     </td>
   </tr>
