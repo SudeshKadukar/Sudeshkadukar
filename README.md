@@ -12,9 +12,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28A745&center=true&vCenter=true&width=435&lines=Building+innovative+solutions;Exploring+the+world+of+AI+and+Cloud+Computing;Creating+engaging+content+for+my+community;" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  I am a versatile **Electronics and Telecommunication Engineer** with a passion for **Cloud Computing** and **Artificial Intelligence**. I love building applications that solve real-world problems and creating quality content. My goal is to combine my engineering background with modern technology to drive innovation and deliver exceptional results.
-</p>
+### **About Me**
+
+I am a highly motivated and versatile **Electronics and Telecommunication Engineer** with a deep passion for technology. My expertise lies at the intersection of hardware and software, with a strong focus on **Cloud Computing** and **Artificial Intelligence**. I am skilled in developing robust, scalable solutions using modern tech stacks and am driven by the challenge of turning complex problems into innovative applications. My goal is to leverage my diverse skill set to build impactful projects and push the boundaries of what's possible in the tech world.
 
 ---
 
@@ -36,7 +36,7 @@
 <div align="center">
   <p><b>Languages & Core</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,java" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=c,py,ts,html,css,java" alt="Languages"/>
   </a>
   <p><b>Frameworks & Libraries</b></p>
   <a href="https://skillicons.dev">
@@ -71,7 +71,7 @@
   <a href="https://www.instagram.com/Sudesh_Kadukar/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:kadukarsudesh100@gmail.com" target="_blank">
+  <a href="mailto:kadukarsudesh18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
