@@ -401,7 +401,7 @@ I am a highly motivated and versatile **Electronics and Telecommunication Engine
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:kadukarsudesh100@gmail.com" target="_blank">
+      <a href="mailto:kadukarsudesh18@gmail.com" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kadukarsudesh100@gmail.com&size=square" alt="Sudeshkadukar" style="margin: 10px;">
       </a>
     </td>
