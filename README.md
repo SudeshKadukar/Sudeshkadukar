@@ -390,3 +390,31 @@ I am a highly motivated and versatile **Electronics and Telecommunication Engine
 
 <h2 align="center">Socials</h2>
 <div align="center">
+  <div align="center">
+    <a href="https://www.instagram.com/Sudesh_Kadukar/" target="_blank">
+      <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
+    </a>
+  </div>
+</div>
+
+<h2 align="center">📫 Let's Connect!</h2>
+<table align="center">
+  <tr>
+    <td colspan="3" align="center">
+      <a href="mailto:kadukarsudesh100@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kadukarsudesh100@gmail.com&size=square" alt="Sudeshkadukar" style="margin: 10px;">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/94203555509" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-94203555509&size=square" alt="India-+91-94203555509" style="margin: 10px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110" alt="Footer wave">
+</div>
