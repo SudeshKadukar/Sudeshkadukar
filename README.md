@@ -36,7 +36,7 @@
 <div align="center">
   <p><b>Languages & Core</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,java" alt="Languages"/>
   </a>
   <p><b>Frameworks & Libraries</b></p>
   <a href="https://skillicons.dev">
@@ -68,7 +68,7 @@
   <a href="https://in.linkedin.com/in/sudesh-kadukar-74713b2b3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
+  <a href="https://www.instagram.com/Sudesh_Kadukar/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:rafikshah3262@gmail.com" target="_blank">
