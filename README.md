@@ -388,48 +388,5 @@ I am a highly motivated and versatile **Electronics and Telecommunication Engine
 
 ---
 
-<h2 align="center">Socials & Stats</h2>
+<h2 align="center">Socials</h2>
 <div align="center">
-  <div align="center">
-    <a href="https://www.instagram.com/Sudesh_Kadukar/" target="_blank">
-      <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
-    </a>
-  </div>
-</div>
-
-<div align="center">
-  <h3 align="center">Leetcode Stats</h3>
-  <p align="center">
-    <img align="center" src="https://leetcard.jacoblin.cool/rafikshah2272?border=0&radius=20"/>
-  </p>
-</div>
-
-<h3 align="center">YouTube Stats</h3>
-
-<div align="center">
-  [![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCHFZAGz2H5WPK9cmwAxG2Og&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/channel/UCHFZAGz2H5WPK9cmwAxG2Og)
-</div>
-
-<br>
-
-<h2 align="center">📫 Let's Connect!</h2>
-<table align="center">
-  <tr>
-    <td colspan="3" align="center">
-      <a href="mailto:kadukarsudesh100@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kadukarsudesh100@gmail.com&size=square" alt="Sudeshkadukar" style="margin: 10px;">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://wa.me/94203555509" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-94203555509&size=square" alt="India-+91-94203555509" style="margin: 10px;">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110" alt="Footer wave">
-</div>
