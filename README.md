@@ -5,7 +5,7 @@
 
 <h1 align="center">Hey, I'm Sudeshkadukar! 👋</h1>
 <h3 align="center">
-  Electronics & Telecommunication Engineer | Full-Stack Developer | AI Enthusiast
+  Electronics & Telecommunication Engineer | AI Enthusiast
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I am a versatile **Electronics and Telecommunication Engineer** and **Full-Stack Developer** with a passion for **Cloud Computing** and **Artificial Intelligence**. I love building applications that solve real-world problems and creating quality content. My goal is to combine my engineering background with modern technology to drive innovation and deliver exceptional results.
+  I am a versatile **Electronics and Telecommunication Engineer** with a passion for **Cloud Computing** and **Artificial Intelligence**. I love building applications that solve real-world problems and creating quality content. My goal is to combine my engineering background with modern technology to drive innovation and deliver exceptional results.
 </p>
 
 ---
@@ -26,25 +26,6 @@
   </a>
   <a href="https://github.com/Sudeshkadukar">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudeshkadukar&theme=default&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</div>
-
----
-
-### **My Top Projects** ✨
-
-<div align="center">
-  <a href="https://github.com/Sudeshkadukar/fast-gemini-nano">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudeshkadukar&repo=fast-gemini-nano&theme=default&hide_border=true" alt="fast-gemini-nano"/>
-  </a>
-  <a href="https://github.com/Sudeshkadukar/Weather-3d-ai-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudeshkadukar&repo=Weather-3d-ai-app&theme=default&hide_border=true" alt="Weather-3d-ai-app"/>
-  </a>
-  <a href="https://github.com/Sudeshkadukar/moviedjangoai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudeshkadukar&repo=moviedjangoai&theme=default&hide_border=true" alt="moviedjangoai"/>
-  </a>
-  <a href="https://github.com/Sudeshkadukar/speech-to-text">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudeshkadukar&repo=speech-to-text&theme=default&hide_border=true" alt="speech-to-text"/>
   </a>
 </div>
 
@@ -84,7 +65,7 @@
 ### **Connect with Me** 🌐
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
+  <a href="https://in.linkedin.com/in/sudesh-kadukar-74713b2b3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
