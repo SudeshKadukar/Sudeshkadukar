@@ -13,9 +13,11 @@ Electronics & Telecommunication Engineer | AI Enthusiast
 </p>
 
 About Me
+
 I am a highly motivated and versatile Electronics and Telecommunication Engineer with a deep passion for technology. My expertise lies at the intersection of hardware and software, with a strong focus on Cloud Computing and Artificial Intelligence. I am skilled in developing robust, scalable solutions using modern tech stacks and am driven by the challenge of turning complex problems into innovative applications. My goal is to leverage my diverse skill set to build impactful projects and push the boundaries of what's possible in the tech world.
 
 GitHub Stats & Contributions 📊
+
 <div align="center">
 <a href="https://github.com/Sudeshkadukar">
 <img src="https://ghchart.rshah.org/Sudeshkadukar" alt="Sudeshkadukar's GitHub Contribution Chart">
@@ -32,19 +34,22 @@ GitHub Stats & Contributions 📊
 <img src="https://github-readme-bento.vercel.app/stats/Sudeshkadukar?theme=dark" alt="Sudeshkadukar's GitHub Stats">
 </details>
 
-<br>
-
 <div align="center">
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 </div>
 
 <details>
 <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
-<br>
+
+
+
+
+
 <img src="https://github-profile-trophy.vercel.app/?username=Sudeshkadukar&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 My Tech Stack 🛠️
+
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
 <thead>
@@ -58,49 +63,81 @@ My Tech Stack 🛠️
 <a href="https://nextjs.org/" style="color: white;">
 <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
 </a>
-<br>Next.js
+
+
+
+
+Next.js
 </td>
 <td align="center" style="border: none;">
 <a href="https://tailwindcss.com/" style="color: white;">
 <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
 </a>
-<br>Tailwind CSS
+
+
+
+
+Tailwind CSS
 </td>
 <td align="center" style="border: none;">
 <a href="https://reactjs.org/" style="color: white;">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
 </a>
-<br>React
+
+
+
+
+React
 </td>
 <td align="center" style="border: none;">
 <a href="https://www.typescriptlang.org/" style="color: white;">
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
 </a>
-<br>TypeScript
+
+
+
+
+TypeScript
 </td>
 <td align="center" style="border: none;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
 </a>
-<br>JavaScript
+
+
+
+
+JavaScript
 </td>
 <td align="center" style="border: none;">
 <a href="https://jquery.com/" style="color: white;">
 <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
 </a>
-<br>jQuery
+
+
+
+
+jQuery
 </td>
 <td align="center" style="border: none;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
 </a>
-<br>HTML
+
+
+
+
+HTML
 </td>
 <td align="center" style="border: none;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
 </a>
-<br>CSS
+
+
+
+
+CSS
 </td>
 </tr>
 </tbody>
@@ -117,16 +154,76 @@ My Tech Stack 🛠️
 <tbody>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
+
+
+
+Node.js
 </td>
 <td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
+<img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/>
+
+
+
+Django
 </td>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
+<img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/>
+
+
+
+Flask
 </td>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+<img src="https://skillicons.dev/icons?i=express" width="50" height="50"/>
+
+
+
+Express
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<h3 align="center">IoT & Embedded Systems</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<thead>
+<tr>
+<th colspan="4" align="center" style="color: white;">Hardware & Control</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" style="border: none;">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Darduino" alt="Arduino" width="50" height="50"/>
+
+
+
+Arduino
+</td>
+<td align="center" style="border: none;">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Draspberrypi" alt="Raspberry Pi" width="50" height="50"/>
+
+
+
+Raspberry Pi
+</td>
+<td align="center" style="border: none;">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="50" height="50"/>
+
+
+
+Embedded C
+</td>
+<td align="center" style="border: none;">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython" alt="Python" width="50" height="50"/>
+
+
+
+Python
 </td>
 </tr>
 </tbody>
@@ -143,16 +240,32 @@ My Tech Stack 🛠️
 <tbody>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
+
+
+
+MySQL
 </td>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+
+
+
+MongoDB
 </td>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+<img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/>
+
+
+
+PostgreSQL
 </td>
 <td align="center" style="border: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/>
+
+
+
+Neo4j
 </td>
 </tr>
 </tbody>
@@ -171,16 +284,32 @@ My Tech Stack 🛠️
 <tbody>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/>
+
+
+
+Docker
 </td>
 <td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
+
+
+
+Kubernetes
 </td>
 <td align="center" style="border: none;">
-<img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
+<img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/>
+
+
+
+Helm
 </td>
 <td align="center" style="border: none;">
-<img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
+<img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/>
+
+
+
+Skaffold
 </td>
 </tr>
 </tbody>
@@ -197,13 +326,25 @@ My Tech Stack 🛠️
 <tbody>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
+<img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/>
+
+
+
+Azure
 </td>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
+<img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/>
+
+
+
+GCP
 </td>
 <td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/>
+
+
+
+AWS
 </td>
 </tr>
 </tbody>
@@ -220,10 +361,18 @@ My Tech Stack 🛠️
 <tbody>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
+<img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/>
+
+
+
+Terraform
 </td>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=ansible" alt="Terraform" width="50" height="50"/><br>Ansible
+<img src="https://skillicons.dev/icons?i=ansible" alt="Terraform" width="50" height="50"/>
+
+
+
+Ansible
 </td>
 </tr>
 </tbody>
@@ -241,19 +390,39 @@ My Tech Stack 🛠️
 <tbody>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
+
+
+
+Python
 </td>
 <td align="center" style="border: none;">
-<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
+<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/>
+
+
+
+NumPy
 </td>
 <td align="center" style="border: none;">
-<img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="80" height="50"/><br>Pandas
+<img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="80" height="50"/>
+
+
+
+Pandas
 </td>
 <td align="center" style="border: none;">
-<img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
+<img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" />
+
+
+
+TensorFlow
 </td>
 <td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
+<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/>
+
+
+
+PyTorch
 </td>
 </tr>
 </tbody>
@@ -270,13 +439,25 @@ My Tech Stack 🛠️
 <tbody>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>LangChain
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/>
+
+
+
+LangChain
 </td>
 <td align="center" style="border: none;">
-<img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
+<img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/>
+
+
+
+Ollama
 </td>
 <td align="center" style="border: none;">
-<img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>LlamaIndex
+<img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/>
+
+
+
+LlamaIndex
 </td>
 </tr>
 </tbody>
@@ -294,22 +475,46 @@ My Tech Stack 🛠️
 <tbody>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/>
+
+
+
+ChatGPT
 </td>
 <td align="center" style="border: none;">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/>
+
+
+
+Claude (Anthropic)
 </td>
 <td align="center" style="border: none;">
-<img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
+<img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" />
+
+
+
+Google Gemini
 </td>
 <td align="center" style="border: none;">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/>
+
+
+
+Hugging Face
 </td>
 <td align="center" style="border: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/>
+
+
+
+Meta Llama
 </td>
 <td align="center" style="border: none;">
-<img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
+<img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/>
+
+
+
+Cohere
 </td>
 </tr>
 </tbody>
@@ -317,9 +522,14 @@ My Tech Stack 🛠️
 </div>
 
 My Coding Journey
+
 <div align="center">
 <p>I actively practice and solve problems on platforms like LeetCode to sharpen my skills. Below is a link to one of the recent problems I've tackled!</p>
-<br>
+
+
+
+
+
 <a href="https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-LeetCode-007BFF%3Fstyle%3Dflat-square%26logo%3Dleetcode%26logoColor%3Dwhite" alt="LeetCode" />
 </a>
@@ -337,10 +547,18 @@ My Coding Journey
 <tbody>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" width="50" height="50" alt="Twitch"/><br>Twitch
+<img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" width="50" height="50" alt="Twitch"/>
+
+
+
+Twitch
 </td>
 <td align="center" style="border: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="50" height="50" alt="YouTube"/><br>YouTube
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="50" height="50" alt="YouTube"/>
+
+
+
+YouTube
 </td>
 </tr>
 </tbody>
@@ -357,7 +575,11 @@ My Coding Journey
 <tbody>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" width="50" height="50" alt="OBS"/><br>OBS
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" width="50" height="50" alt="OBS"/>
+
+
+
+OBS
 </td>
 </tr>
 </tbody>
@@ -374,13 +596,25 @@ My Coding Journey
 <tbody>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="50" height="50" alt="Adobe Photoshop"/><br>Adobe Photoshop
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="50" height="50" alt="Adobe Photoshop"/>
+
+
+
+Adobe Photoshop
 </td>
 <td align="center" style="border: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="50" height="50" alt="Adobe Premiere Pro"/><br>Adobe Premiere Pro
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="50" height="50" alt="Adobe Premiere Pro"/>
+
+
+
+Adobe Premiere Pro
 </td>
 <td align="center" style="border: none;">
-<img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" width="50" height="50" alt="Adobe After Effects"/><br>Adobe After Effects
+<img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" width="50" height="50" alt="Adobe After Effects"/>
+
+
+
+Adobe After Effects
 </td>
 </tr>
 </tbody>
@@ -389,7 +623,7 @@ My Coding Journey
 
 <h2 align="center">Connect with Me</h2>
 <div align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/Sudeshkadukar" target="_blank">
 <img src="https://www.google.com/search?q=https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/Sudesh_Kadukar/" target="_blank">
@@ -398,12 +632,10 @@ My Coding Journey
 <a href="mailto:kadukarsudesh18@gmail.com" target="_blank">
 <img src="https://www.google.com/search?q=https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" />
 </a>
-<a href="https://wa.me/94203555509" target="_blank">
+<a href="https://www.google.com/search?q=https://wa.me/9194203555509" target="_blank">
 <img src="https://www.google.com/search?q=https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp" />
 </a>
 </div>
-
-<br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110" alt="Footer wave">
