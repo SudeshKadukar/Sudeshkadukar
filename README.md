@@ -5,638 +5,92 @@
 
 <h1 align="center">Hey, I'm Sudeshkadukar! 👋</h1>
 <h3 align="center">
-Electronics & Telecommunication Engineer | AI Enthusiast
+Electronics & Telecommunication Engineer | AI & Cloud Architect
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28A745&center=true&vCenter=true&width=435&lines=Building+innovative+solutions;Exploring+the+world+of+AI+and+Cloud+Computing;Creating+engaging+content+for+my+community;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28A745&center=true&vCenter=true&width=435&lines=Building+innovative+solutions;Exploring+LLMs+and+Cloud+Ops;Automating+the+Future;" alt="Typing SVG" />
 </p>
 
-About Me
+### 📖 About Me
 
-I am a highly motivated and versatile Electronics and Telecommunication Engineer with a deep passion for technology. My expertise lies at the intersection of hardware and software, with a strong focus on Cloud Computing and Artificial Intelligence. I am skilled in developing robust, scalable solutions using modern tech stacks and am driven by the challenge of turning complex problems into innovative applications. My goal is to leverage my diverse skill set to build impactful projects and push the boundaries of what's possible in the tech world.
+I am a highly motivated Electronics and Telecommunication Engineer bridging the gap between hardware and high-level software. My expertise focuses on **Cloud Native Infrastructure**, **DevOps automation**, and **Generative AI**. I spend my time building RAG pipelines with LangChain, managing clusters with Kubernetes, and ensuring my production environments (and my GitHub graph) stay healthy and green.
 
-GitHub Stats & Contributions 📊
+---
+
+### GitHub Stats & Contributions 📊
 
 <div align="center">
 <a href="https://github.com/Sudeshkadukar">
-<img src="https://ghchart.rshah.org/Sudeshkadukar" alt="Sudeshkadukar's GitHub Contribution Chart">
+<img src="https://ghchart.rshah.org/007BFF/Sudeshkadukar" alt="Sudeshkadukar's GitHub Contribution Chart">
 </a>
 </div>
 
 <details>
-<summary style="font-size: 1.17em; font-weight: bold;">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-</summary>
-
-<img src="https://myreadme.vercel.app/api/embed/Sudeshkadukar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Sudeshkadukar's GitHub Stats">
-<img src="https://github-readme-bento.vercel.app/stats/Sudeshkadukar?theme=dark" alt="Sudeshkadukar's GitHub Stats">
+<summary style="font-size: 1.17em; font-weight: bold;">📊 Advanced Git Metrics</summary>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Sudeshkadukar&show_icons=true&theme=dark" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeshkadukar&layout=compact&theme=dark" alt="Languages" />
 </details>
 
-<div align="center">
-<img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
-</div>
+---
 
-<details>
-<summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
-
-
-
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sudeshkadukar&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
-</details>
-
-My Tech Stack 🛠️
+### My Tech Stack 🛠️
 
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-<thead>
-<tr>
-<th colspan="8" align="center" style="color: white;">Frontend</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" style="border: none;">
-<a href="https://nextjs.org/" style="color: white;">
-<img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-</a>
 
+| Area | Tools |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) |
+| **AI/ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink) ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 
-
-
-Next.js
-</td>
-<td align="center" style="border: none;">
-<a href="https://tailwindcss.com/" style="color: white;">
-<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
-</a>
-
-
-
-
-Tailwind CSS
-</td>
-<td align="center" style="border: none;">
-<a href="https://reactjs.org/" style="color: white;">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
-</a>
-
-
-
-
-React
-</td>
-<td align="center" style="border: none;">
-<a href="https://www.typescriptlang.org/" style="color: white;">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
-</a>
-
-
-
-
-TypeScript
-</td>
-<td align="center" style="border: none;">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
-</a>
-
-
-
-
-JavaScript
-</td>
-<td align="center" style="border: none;">
-<a href="https://jquery.com/" style="color: white;">
-<img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
-</a>
-
-
-
-
-jQuery
-</td>
-<td align="center" style="border: none;">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
-</a>
-
-
-
-
-HTML
-</td>
-<td align="center" style="border: none;">
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
-</a>
-
-
-
-
-CSS
-</td>
-</tr>
-</tbody>
-</table>
 </div>
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-<thead>
-<tr>
-<th colspan="4" align="center" style="color: white;">Backend</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/>
-
-
-
-Node.js
-</td>
-<td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/>
-
-
-
-Django
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/>
-
-
-
-Flask
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=express" width="50" height="50"/>
-
-
-
-Express
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<h3 align="center">IoT & Embedded Systems</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-<thead>
-<tr>
-<th colspan="4" align="center" style="color: white;">Hardware & Control</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Darduino" alt="Arduino" width="50" height="50"/>
-
-
-
-Arduino
-</td>
-<td align="center" style="border: none;">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Draspberrypi" alt="Raspberry Pi" width="50" height="50"/>
-
-
-
-Raspberry Pi
-</td>
-<td align="center" style="border: none;">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="50" height="50"/>
-
-
-
-Embedded C
-</td>
-<td align="center" style="border: none;">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython" alt="Python" width="50" height="50"/>
-
-
-
-Python
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-<thead>
-<tr>
-<th colspan="4" align="center" style="color: white;">Database</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
-
-
-
-MySQL
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
-
-
-
-MongoDB
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/>
-
-
-
-PostgreSQL
-</td>
-<td align="center" style="border: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/>
-
-
-
-Neo4j
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<h3 align="center">Cloud Computing & DevOps</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-<thead>
-<tr>
-<th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/>
-
-
-
-Docker
-</td>
-<td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
-
-
-
-Kubernetes
-</td>
-<td align="center" style="border: none;">
-<img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/>
-
-
-
-Helm
-</td>
-<td align="center" style="border: none;">
-<img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/>
-
-
-
-Skaffold
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-<thead>
-<tr>
-<th colspan="3" align="center" style="color: white;">Cloud Providers</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/>
-
-
-
-Azure
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/>
-
-
-
-GCP
-</td>
-<td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/>
-
-
-
-AWS
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-<thead>
-<tr>
-<th colspan="2" align="center" style="color: white;">Infrastructure as Code</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/>
-
-
-
-Terraform
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=ansible" alt="Terraform" width="50" height="50"/>
-
-
-
-Ansible
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<h3 align="center">AI/ML & Data Science</h3>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-<thead>
-<tr>
-<th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
-
-
-
-Python
-</td>
-<td align="center" style="border: none;">
-<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/>
-
-
-
-NumPy
-</td>
-<td align="center" style="border: none;">
-<img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="80" height="50"/>
-
-
-
-Pandas
-</td>
-<td align="center" style="border: none;">
-<img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" />
-
-
-
-TensorFlow
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/>
-
-
-
-PyTorch
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-<thead>
-<tr>
-<th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/>
-
-
-
-LangChain
-</td>
-<td align="center" style="border: none;">
-<img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/>
-
-
-
-Ollama
-</td>
-<td align="center" style="border: none;">
-<img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/>
-
-
-
-LlamaIndex
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<h3 align="center"> AI Tools & Prompt Engineering</h3>
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-<thead>
-<tr>
-<th colspan="6" align="center" style="color: white;">AI Tools</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/>
-
-
-
-ChatGPT
-</td>
-<td align="center" style="border: none;">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/>
-
-
-
-Claude (Anthropic)
-</td>
-<td align="center" style="border: none;">
-<img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" />
-
-
-
-Google Gemini
-</td>
-<td align="center" style="border: none;">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/>
-
-
-
-Hugging Face
-</td>
-<td align="center" style="border: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/>
-
-
-
-Meta Llama
-</td>
-<td align="center" style="border: none;">
-<img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/>
-
-
-
-Cohere
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-My Coding Journey
-
-<div align="center">
-<p>I actively practice and solve problems on platforms like LeetCode to sharpen my skills. Below is a link to one of the recent problems I've tackled!</p>
-
-
-
-
-
-<a href="https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LeetCode-007BFF%3Fstyle%3Dflat-square%26logo%3Dleetcode%26logoColor%3Dwhite" alt="LeetCode" />
-</a>
-</div>
-
-<h3 align="center">Streaming & Video Editing</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-<thead>
-<tr>
-<th colspan="2" align="center" style="color: white;">Streaming Platforms</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" width="50" height="50" alt="Twitch"/>
-
-
-
-Twitch
-</td>
-<td align="center" style="border: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="50" height="50" alt="YouTube"/>
-
-
-
-YouTube
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-<thead>
-<tr>
-<th align="center" style="color: white;">Streaming Tools</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" width="50" height="50" alt="OBS"/>
-
-
-
-OBS
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-<thead>
-<tr>
-<th colspan="3" align="center" style="color: white;">Video Editing Tools</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="50" height="50" alt="Adobe Photoshop"/>
-
-
-
-Adobe Photoshop
-</td>
-<td align="center" style="border: none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="50" height="50" alt="Adobe Premiere Pro"/>
-
-
-
-Adobe Premiere Pro
-</td>
-<td align="center" style="border: none;">
-<img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" width="50" height="50" alt="Adobe After Effects"/>
-
-
-
-Adobe After Effects
-</td>
-</tr>
-</tbody>
-</table>
-</div>
+---
+
+### 🚀 Automation Status
+> [!TIP]
+> This profile uses **GitHub Actions** to maintain an active "Stay Green" heartbeat, simulating consistent system activity and health checks.
 
 <h2 align="center">Connect with Me</h2>
 <div align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/Sudeshkadukar" target="_blank">
-<img src="https://www.google.com/search?q=https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/Sudesh_Kadukar/" target="_blank">
-<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
-</a>
-<a href="mailto:kadukarsudesh18@gmail.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" />
-</a>
-<a href="https://www.google.com/search?q=https://wa.me/9194203555509" target="_blank">
-<img src="https://www.google.com/search?q=https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp" />
-</a>
+<a href="https://linkedin.com/in/Sudeshkadukar" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kadukarsudesh18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/9194203555509"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110" alt="Footer wave">
 </div>
+name: Stay Green Heartbeat
+
+on:
+  schedule:
+    # Runs every 6 hours to ensure a dense green graph
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: System Sync
+        run: |
+          echo "System Online: $(date)" > activity.log
+          echo "Entropy: $RANDOM" >> activity.log
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "Sudeshkadukar"
+          git config --global user.email "kadukarsudesh18@gmail.com"
+          git add activity.log
+          git commit -m "sys: automated health check $(date +'%Y-%m-%d')" || exit 0
+          git push
