@@ -14,7 +14,7 @@ Electronics & Telecommunication Engineer | AI & Cloud Architect
 
 ### 📖 About Me
 
-I am a highly motivated Electronics and Telecommunication Engineer bridging the gap between hardware and high-level software. My expertise focuses on **Cloud Native Infrastructure**, **DevOps automation**, and **Generative AI**. I spend my time building RAG pipelines with LangChain, managing clusters with Kubernetes, and ensuring my production environments (and my GitHub graph) stay healthy and green.
+I am an Electronics and Telecommunication Engineer focused on the intersection of **Physical Systems** and **Intelligence**. As an AI & Cloud Architect, I design scalable infrastructures and advanced Generative AI workflows that transform complex data into actionable insights. My work bridges the gap between hardware precision and cloud-native scalability.
 
 ---
 
@@ -41,11 +41,9 @@ I am a highly motivated Electronics and Telecommunication Engineer bridging the 
 
 | Area | Tools |
 | :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) |
-| **AI/ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink) ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **AI & ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink) ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge) |
+| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Development** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
 
 </div>
 
@@ -53,7 +51,7 @@ I am a highly motivated Electronics and Telecommunication Engineer bridging the 
 
 ### 🚀 Automation Status
 > [!TIP]
-> This profile uses **GitHub Actions** to maintain an active "Stay Green" heartbeat, simulating consistent system activity and health checks.
+> This profile uses **GitHub Actions** to maintain an active "Stay Green" heartbeat, ensuring consistent system activity and repository health.
 
 <h2 align="center">Connect with Me</h2>
 <div align="center">
@@ -65,12 +63,18 @@ I am a highly motivated Electronics and Telecommunication Engineer bridging the 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110" alt="Footer wave">
 </div>
+
+---
+
+### 🟢 GitHub Action Configuration
+Save this file as `.github/workflows/stay-green.yml` in your repository:
+
+```yaml
 name: Stay Green Heartbeat
 
 on:
   schedule:
-    # Runs every 6 hours to ensure a dense green graph
-    - cron: '0 */6 * * *'
+    - cron: '0 */6 * * *' # Runs every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -93,4 +97,4 @@ jobs:
           git config --global user.email "kadukarsudesh18@gmail.com"
           git add activity.log
           git commit -m "sys: automated health check $(date +'%Y-%m-%d')" || exit 0
-          git push
+          git push origin main
