@@ -3,18 +3,37 @@
 <img src="https://komarev.com/ghpvc/?username=Sudeshkadukar&color=007BFF&style=flat-square&label=Profile+Views" alt="Profile views">
 </div>
 
-<h1 align="center">Hey, I'm Sudeshkadukar! 👋</h1>
+<h1 align="center">Hey, I'm Sudesh Kadukar! 👋</h1>
 <h3 align="center">
 Electronics & Telecommunication Engineer | AI & Cloud Architect
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28A745&center=true&vCenter=true&width=435&lines=Building+innovative+solutions;Exploring+LLMs+and+Cloud+Ops;Automating+the+Future;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28A745&center=true&vCenter=true&width=500&lines=Bridging+Silicon+and+Software;Exploring+LLMs+and+Cloud+Ops;Architecting+the+Future+of+AI;" alt="Typing SVG" />
 </p>
 
 ### 📖 About Me
 
-I am an Electronics and Telecommunication Engineer focused on the intersection of **Physical Systems** and **Intelligence**. As an AI & Cloud Architect, I design scalable infrastructures and advanced Generative AI workflows that transform complex data into actionable insights. My work bridges the gap between hardware precision and cloud-native scalability.
+I operate at the intersection of **Physical Systems** and **Intelligence**. As an Electronics and Telecommunication Engineer turned AI & Cloud Architect, I bridge the gap between hardware precision and cloud-native scalability. I design advanced Generative AI workflows, automate complex infrastructures, and build systems that transform raw data into actionable intelligence.
+
+---
+
+### 🛠️ The Tech Ecosystem
+
+To keep things structured, I look at my stack in three layers: **Silicon** (The Edge), **Synapses** (The Intelligence), and **Scale** (The Cloud).
+
+| Layer | Technologies & Tools |
+| :--- | :--- |
+| **🧠 Synapses** <br>*(AI & ML)* | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square) |
+| **☁️ Scale** <br>*(Cloud & Infra)* | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) |
+| **💻 Development** <br>*(App Layer)* | ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) |
+
+---
+
+### 🔬 Current R&D Focus
+
+> [!NOTE]
+> Right now, I'm heavily focused on **Local LLMs** and **Agentic AI workflows** that can be deployed at the edge or scaled seamlessly on AWS. If you are working on something similar, let's collaborate!
 
 ---
 
@@ -27,33 +46,21 @@ I am an Electronics and Telecommunication Engineer focused on the intersection o
 </div>
 
 <details>
-<summary style="font-size: 1.17em; font-weight: bold;">📊 Advanced Git Metrics</summary>
+<summary style="font-size: 1.1em; font-weight: bold; cursor: pointer;">📊 Click to expand Advanced Git Metrics</summary>
 <br>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sudeshkadukar&show_icons=true&theme=dark" alt="Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeshkadukar&layout=compact&theme=dark" alt="Languages" />
-</details>
-
----
-
-### My Tech Stack 🛠️
-
-<div align="center">
-
-| Area | Tools |
-| :--- | :--- |
-| **AI & ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink) ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge) |
-| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Development** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
-
 </div>
+</details>
 
 ---
 
 ### 🚀 Automation Status
 > [!TIP]
-> This profile uses **GitHub Actions** to maintain an active "Stay Green" heartbeat, ensuring consistent system activity and repository health.
+> This profile uses a custom **GitHub Action** to maintain an active "Stay Green" heartbeat, verifying that my automated environment scripts and repository health remain online.
 
-<h2 align="center">Connect with Me</h2>
+<h2 align="center">Let's Connect and Build</h2>
 <div align="center">
 <a href="https://linkedin.com/in/Sudeshkadukar" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kadukarsudesh18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -67,7 +74,7 @@ I am an Electronics and Telecommunication Engineer focused on the intersection o
 ---
 
 ### 🟢 GitHub Action Configuration
-Save this file as `.github/workflows/stay-green.yml` in your repository:
+To keep the automation running smoothly, place this in `.github/workflows/stay-green.yml`:
 
 ```yaml
 name: Stay Green Heartbeat
