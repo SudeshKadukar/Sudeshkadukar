@@ -17,7 +17,6 @@ Electronics & Telecommunication Engineer | AI & Cloud Architect | Tech Enthusias
 ### 📖 About Me
 I am an **Electronics and Telecommunication Engineering** student focused on the synergy between physical hardware and digital intelligence. As an AI & Cloud Architect, I design scalable infrastructures and Computer Vision workflows. My work bridges the gap between hardware precision and cloud-native scalability, often inspired by solving real-world safety and utility challenges.
 
-When I'm not debugging Python or configuring IoT sensors, I express my creative side through **Marathi poetry** under the pen name *Krishnavela*.
 
 ---
 
