@@ -2,7 +2,9 @@
 
 <img src="https://i.ibb.co/3kX2r5M/header-img-1.png" width="100%">
 
-<img src="https://komarev.com/ghpvc/?username=Sudeshkadukar&color=28A745&style=flat-square&label=Profile+Views" alt="Profile views">
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Sudeshkadukar&color=28A745&style=flat-square&label=Profile+Views" alt="Profile Views">
 
 </div>
 
@@ -13,50 +15,43 @@ Electronics & Telecommunication Engineer | AI & Cloud Architect | Embedded Syste
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28A745&center=true&vCenter=true&width=600&lines=Building+AI+Solutions;Electronics+%26+Embedded+Systems;Exploring+Cloud+%26+AI;IoT+%26+Edge+AI;Marathi+Poet+%26+Writer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28A745&center=true&vCenter=true&width=650&lines=Building+AI+Solutions;Electronics+%26+Embedded+Systems;Exploring+Cloud+%26+AI;IoT+%26+Edge+AI;Computer+Vision;Marathi+Poet+%26+Writer" alt="Typing SVG">
 </p>
 
 ---
 
 ## 📖 About Me
 
-I am an **Electronics and Telecommunication Engineering** student focused on combining **electronics, embedded systems, artificial intelligence, and cloud technologies**.
+I am an **Electronics and Telecommunication Engineering** student passionate about combining **hardware, artificial intelligence, embedded systems, IoT, and cloud technologies**.
 
-I enjoy building practical solutions that connect the physical world with intelligent software. My interests include **AI/ML, Computer Vision, Embedded Systems, IoT, Edge AI, Cloud Computing, and automation**.
+My goal is to build practical technology that solves real-world problems by connecting physical hardware with intelligent software.
 
-I am particularly interested in solving real-world problems through innovative hardware-software systems.
+### 🔭 My Interests
 
----
-
-## 🚀 Featured Innovations
-
-Here are some of my recent projects and innovations:
-
-- 🛡️ **FocusFlow** — AI-powered fatigue detection using OpenCV and MediaPipe to monitor eye activity and trigger safety alerts.
-
-- 🛣️ **Path-Sentry** — IoT-based road pothole detection system using accelerometers and GPS for real-time road condition monitoring.
-
-- 👓 **StadiumSight Goggles** — Electronic wearable concept featuring optical zoom and integrated hardware controls.
-
-- 🐄 **AgriVision** — YOLO-based livestock breed classification system for intelligent agricultural identification.
-
-- 📰 **SK News** — Custom-built Marathi news portal for digital journalism and reporting.
-
-- 🚌 **Smart Student Seat Allocation System** — Automated school-bus seat allocation and vacant-seat reallocation using RFID, sensors, and microcontrollers.
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
+- ⚡ Embedded Systems
+- 🔌 IoT & Edge AI
+- ☁️ Cloud Computing
+- 🧠 Generative AI
+- 🔗 Agentic AI
+- 🔧 Electronics & Automation
+- 📡 Communication Systems
+- 📊 Data Science
 
 ---
 
-## 🧠 Current Focus
+# 🚀 Featured Projects
+
+### 🛡️ FocusFlow
+
+AI-powered fatigue detection system using **OpenCV and MediaPipe** to monitor eye activity and generate safety alerts.
+
+**Technologies:**
 
 ```text
-AI / Machine Learning
-        ↓
+Python
+OpenCV
+MediaPipe
 Computer Vision
-        ↓
-Embedded Systems
-        ↓
-IoT & Edge AI
-        ↓
-Cloud Computing
-        ↓
-Real-World Automation
+AI/ML
